@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319785575667",
+    "project_id": "kenz-fashion-d060d",
+    "storage_bucket": "kenz-fashion-d060d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319785575667:android:0d4e39ad8a711c7d1f4386",
+        "android_client_info": {
+          "package_name": "com.example.dijab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319785575667-732a6iocorolk6jnck7dbvaduf3qn4co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtIbg_uXEGNocq6JwE8hZUsDVe28MypU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319785575667-732a6iocorolk6jnck7dbvaduf3qn4co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

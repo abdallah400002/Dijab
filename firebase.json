@@ -1,0 +1,25 @@
+{
+  "storage": {"rules": "storage.rules"},
+  "functions": {"source": "web/functions"},
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "kenz-fashion-d060d",
+          "appId": "1:319785575667:android:0d4e39ad8a711c7d1f4386",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "kenz-fashion-d060d",
+          "configurations": {
+            "android": "1:319785575667:android:0d4e39ad8a711c7d1f4386",
+            "ios": "1:319785575667:ios:18983caa921872f41f4386",
+            "web": "1:319785575667:web:90bf294da1cfa7a21f4386"
+          }
+        }
+      }
+    }
+  }
+}
